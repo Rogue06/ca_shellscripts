@@ -18,5 +18,4 @@ second_name=${NAMES[1]} #ici on compte 0,1..., comme NAMES=( 1 2 3 ) alors NAMES
 #  Array.sh
 #  Array
 #
-#  Created by mickael burani on 14/10/2022.
 #  
